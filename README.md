@@ -1,19 +1,15 @@
-# AnotherWaySocialWebsite
-Gun Violence Organiztion concept website that uses News API and Node.js
-# Nasa-APOD-App
-Simple NASA app that displays 50 random APODs between 1995 to now. User can generate 50 more with a button
 
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # Another Way: Scoial Justice Website
 
-Submitted by: **Shane Douglas**
+Project by: **Shane Douglas**
 
 Time spent: **27** hours spent in total
 
 ## Summary
 
-**NASA APODs** is an android app that displays 50 different NASA Astronomy Pictures of the Day between 1995 to now. User can generate 50 different more if they want through a button
+**Another Way** is a gun violence organization concept website that advocates for the end of gun gun violence.
 
 If I had to describe this project in three (3) emojis, they would be::persevere:,:triumph:, and :grinning:
 
@@ -21,30 +17,21 @@ If I had to describe this project in three (3) emojis, they would be::persevere:
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-The following REQUIRED features are completed:
+The following features are implemented
 
-- [x] App contains a RecyclerView that displays a list of scrollable data
-- [x] App displays at least two (2) pieces of data for each RecyclerView item
-- [x] Use a downloadable font with custom color and size
-- [x] Modify the theme of the app in `themes.xml`
-- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
+- [x] Website utiles the News API to fetch articles related to gun violence
+- [x] Petition form
+- [x] Interactive like/dislike buttons
+- [x] Scrolling Animations
 
-The following STRETCH features are implemented:
 
-- [ ] Update the night theme to use different versions of styles when in dark mode
-- [ ] Use different drawables when in dark mode
 
-The following EXTRA features are implemented:
-
-- [x] List anything else that you added to improve the app!
-- Floating action button that generates 50 different APODs
-- Custom action bar
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![alt text](NasaApodnew.gif)
+![alt text](anotherway.gif)
 
 
 
